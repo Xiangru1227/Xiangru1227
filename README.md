@@ -1,19 +1,14 @@
 👋 Hi, I’m @Xiangru1227
-I'm an electrical engineering graduate student at Case Western Reserve University, specializing in robotics, algorithmic robotics, and high-performance data & computing. 
-With a passion for developing innovative solutions, I'm on the path to making significant contributions to the field of robotics and automation.
+I’m an Electrical Engineer at Automated Precision Inc., where I work on advanced metrology devices such as the iProbe and vProbe. My focus is on embedded systems, real-time computer vision, and GPU-accelerated optimization, with experience in C++, CUDA, and Python. I enjoy building reliable, high-performance software that bridges hardware and algorithms.
 
-👀 I’m interested in ...
-Exploring the intersection of robotics and artificial intelligence. 
-I am particularly fascinated by the development of force sensors and their applications in robotic surgery, 
-as demonstrated through my research in creating a modular 3-Degree-of-Freedom force sensor for RMIS.
+👀 I’m interested in …
+Exploring the intersection of robotics, autonomy, and high-performance computing. I’m especially fascinated by problems that require real-time perception, system calibration, and precise hardware-software integration.
 
-💞️ I’m looking to collaborate on ...
-Projects that push the boundaries of what's possible in robotic surgery and automation. 
-I'm eager to apply my skills in Python, C++, MATLAB, and ROS/ROS2 to develop solutions that improve precision, reliability, and functionality in robotic systems.
+💞️ I’m looking to collaborate on …
+Projects involving embedded software, vision pipelines, or robotics platforms, particularly those that push the boundaries of autonomous systems and intelligent sensing.
 
- 📫 How to reach me ...
-Feel free to connect with me via email at xiangru1227@gmail.com or on LinkedIn. 
-I'm always open to discussing potential collaborations, research opportunities, or simply exchanging ideas with fellow enthusiasts in the field.
+📫 How to reach me …
+You can reach me at xiangru1227@gmail.com or connect with me on LinkedIn at linkedin.com/in/xiangruli1227. I’m always open to discussing collaborations, exchanging ideas, or diving into new engineering challenges.
 
 <!---
 Xiangru1227/Xiangru1227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
